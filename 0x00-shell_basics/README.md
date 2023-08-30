@@ -1,1 +1,1 @@
-Display content of a list
+Changes working directory to home
