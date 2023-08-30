@@ -1,1 +1,1 @@
-prints the absolute path name of the current working directory
+Display the content of a current working directory
