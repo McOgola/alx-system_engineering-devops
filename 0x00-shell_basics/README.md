@@ -1,1 +1,1 @@
-Moves files with uppercase
+Delete files
