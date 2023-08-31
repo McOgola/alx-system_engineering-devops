@@ -1,1 +1,1 @@
-Sets selective permissions
+Other can write and execute
