@@ -1,1 +1,1 @@
-List all files with different features
+Creating a magic file
