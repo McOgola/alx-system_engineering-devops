@@ -1,1 +1,1 @@
-Adds execution to everyone
+Sets selective permissions
