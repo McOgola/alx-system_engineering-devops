@@ -1,1 +1,1 @@
-Other can write and execute
+Execute all permissions
