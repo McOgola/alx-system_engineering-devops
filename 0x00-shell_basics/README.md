@@ -1,1 +1,1 @@
-Script that creates directories
+List all files with different features
