@@ -1,1 +1,1 @@
-List all files with different features
+Prints type of file
