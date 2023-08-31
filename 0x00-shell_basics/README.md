@@ -1,1 +1,1 @@
-Creating a magic file
+Create a symbolic link
