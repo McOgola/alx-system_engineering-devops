@@ -1,1 +1,1 @@
-Creates a directory
+Changes group owner
