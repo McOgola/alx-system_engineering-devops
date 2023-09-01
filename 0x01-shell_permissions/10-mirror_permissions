@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod "reversed_mode" olleh
+chmod --reversed
