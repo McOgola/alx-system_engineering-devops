@@ -1,1 +1,1 @@
-Displays unique and sorted texts
+Display lines containing pattern root
