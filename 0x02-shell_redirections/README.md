@@ -1,1 +1,1 @@
-Finds all empty files and directories in the cd and sd
+Lists all files with .gif
