@@ -1,1 +1,1 @@
-Duplicate last line
+Deletes all javascript extensions
