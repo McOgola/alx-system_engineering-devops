@@ -1,1 +1,1 @@
-Display pattern bin in a file
+Display root and 3 lines after
