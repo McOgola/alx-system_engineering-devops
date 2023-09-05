@@ -1,1 +1,1 @@
-Display lines of a file starting with a letter
+Replacing characters A and c from input to Z and e
