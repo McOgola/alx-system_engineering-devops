@@ -1,1 +1,1 @@
-Creates new global variable
+Result of addition
