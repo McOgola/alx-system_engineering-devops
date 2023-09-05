@@ -1,1 +1,1 @@
-Lists all files with .gif
+Acrostic
