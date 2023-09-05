@@ -1,1 +1,1 @@
-Display root and 3 lines after
+Display lines in the file that do not contain bin
