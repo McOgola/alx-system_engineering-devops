@@ -1,1 +1,1 @@
-Divide and rule
+Display result of BREATH to power LOVE
