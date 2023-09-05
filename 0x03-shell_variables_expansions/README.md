@@ -1,1 +1,1 @@
-Translates characters
+Prints every other line
