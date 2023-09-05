@@ -1,1 +1,1 @@
-Deletes all javascript extensions
+Making directories count
