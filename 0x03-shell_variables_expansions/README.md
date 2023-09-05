@@ -1,1 +1,1 @@
-Result of addition
+Divide and rule
