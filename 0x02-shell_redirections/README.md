@@ -1,1 +1,1 @@
-Displays users and their home directories sorted by users
+Finds all empty files and directories in the cd and sd
