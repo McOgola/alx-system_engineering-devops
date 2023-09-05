@@ -1,1 +1,1 @@
-Convert number from base 10 to base 16
+Translates characters
