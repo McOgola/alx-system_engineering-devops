@@ -1,1 +1,1 @@
-Displays 10 newest files
+Displays unique and sorted texts
