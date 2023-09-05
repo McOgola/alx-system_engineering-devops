@@ -1,1 +1,1 @@
-Prints environment variables
+List all local variables, environmental variables and function
